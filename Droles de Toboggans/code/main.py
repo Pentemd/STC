@@ -154,7 +154,7 @@ class Game:
 
 
 if __name__ == '__main__':
-    game = Game((12, 3), 1, 0.9)
+    game = Game((12, 3), 1, 0.5)
     game.main_loop()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
