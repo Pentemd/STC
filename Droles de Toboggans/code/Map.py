@@ -53,9 +53,8 @@ class Map:
     def gen_prop(self, w, h, p):
         self.prop = [[0 for i in range(w)] for k in range(h + 1)]
         self.prop[0][0] = p
-        #self.prop[0][-1] = p/2
         #for k in range(len(self.prop[0])):
-        #	self.prop[0][k] = 2**(k+2)
+        #    self.prop[0][k] = round(1/w, 3)
 
 
     def add_height(self):
