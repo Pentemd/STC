@@ -3,8 +3,8 @@ Afin d'utiliser le programme, il faut installer python puis executer le fichier 
 Les commandes:
 - molette permet de monter et descendre
 - le click gauche sur un tobbogan permet de le changer en toboggan de type I
-- Le click droit sur un tobbogan permet de le changer en toboggan de type X
-- Le click molette sur un tobbogan permet de le changer en toboggan de type Z
+- Le click droit sur un tobbogan permet de le changer en toboggan de type Z
+- Le click molette sur un tobbogan permet de le changer en toboggan de type X
 
 - Le click gauche en dessous de la zone des tobbogan permet de d'ajouter des étages c'est à dire augmenter H.
 
