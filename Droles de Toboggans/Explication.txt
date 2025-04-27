@@ -1,0 +1,1 @@
+Afin d'utiliser le programme, il faut installer python puis executer le fichier "main.py" avec ce dernier.
