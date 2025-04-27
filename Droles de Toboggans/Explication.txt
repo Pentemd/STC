@@ -1,4 +1,4 @@
-Afin d'utiliser le programme, il faut installer python puis executer le fichier "main.py" avec ce dernier.
+Afin d'utiliser le programme, il faut installer python, pygames puis executer le fichier "main.py" avec ce dernier.
 
 Les commandes:
 - molette permet de monter et descendre
