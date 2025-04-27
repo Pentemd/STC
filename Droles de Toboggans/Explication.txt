@@ -1,1 +1,18 @@
 Afin d'utiliser le programme, il faut installer python puis executer le fichier "main.py" avec ce dernier.
+
+Les commandes:
+- molette permet de monter et descendre
+- le click gauche sur un tobbogan permet de le changer en toboggan de type I
+- Le click droit sur un tobbogan permet de le changer en toboggan de type X
+- Le click molette sur un tobbogan permet de le changer en toboggan de type Z
+
+- Le click gauche en dessous de la zone des tobbogan permet de d'ajouter des étages c'est à dire augmenter H.
+
+On peut modifier la structure générale du programme grâce aux manipulations suivantes
+- dans le fichier Map.py, dans la fonction gen_prop() j'ai défini "self.prop[0][0] = p" ce qui signifie que la seule entrée d'eau se trouve dans le premier toboggan (2e 0) de la première ligne (1e 0). On peut utiliser la fonction en commentaire pour répartir l'eau de façon équitable entre toutes les entrées d'eau
+
+- dans le fichier main.py, on peut changer la ligne 157 :
+    game = Game((N=largeur, H=hauteur de dépar), proportion d'eau totale en entrée, P=la proportion d'eau qui ressort des tuyaux X dès la question 3)
+
+
+En cas de problème avec les assets lors de l'execution du code : vous pourrez redéfinir leur chemin d'accès dans Main.py des lignes 24 à 27.
